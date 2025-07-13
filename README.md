@@ -1,4 +1,4 @@
- # Image Classification of Cats and Dogs using CNN
+# Image Classification of Cats and Dogs using CNN
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images of cats and dogs.
 
@@ -64,3 +64,7 @@ Moradabad Institute of Technology
 - https://www.tensorflow.org/
 - https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
 - https://keras.io/
+- ## 📎 Downloads
+
+- 📝 [Download Report](Image_Classification_Report%281%29.docx)
+- 📊 [Download Presentation](Image%20Classification%20of%20Cats%20and%20Dogs.pptx)
